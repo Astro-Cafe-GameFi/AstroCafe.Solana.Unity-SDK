@@ -1,0 +1,13 @@
+{
+  "name": "com.astrocafe.solana.unity_sdk",
+  "version": "0.1.0",
+  "unity": "2024.5",
+  "displayName": "AstroCafe Solana Unity SDK",
+  "description": "Open-Source Unity-Solana SDK for interacting with wallets",
+  "changelogUrl": "https://github.com/Astro-Cafe-GameFi/AstroCafe.Solana.Unity-SDK/releases",
+  "author": {
+    "name" : "AstroCafe",
+    "url" : "https://astrocafe.xyz/"
+  },
+  "license": "MIT"
+}
