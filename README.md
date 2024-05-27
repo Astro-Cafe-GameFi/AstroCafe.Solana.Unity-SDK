@@ -1,6 +1,6 @@
 # # AstroCafe.Solana.Unity-SDK
 
-AstroCafe.Solana.Unity-SDK is the interface to access [AstroCafe.Solana.Unity-Core](https://github.com/Astro-Cafe-GameFi/AstroCafe.Solana.Unity-Core).
+AstroCafe.Solana.Unity-SDK is a software development kit designed to facilitate seamless integration between the Solana blockchain and Unity games on both macOS and Windows platforms. This SDK provides all the essential tools, needed to enable game developers to connect their Unity-based applications on both macOS and Windows platforms with Solana's Web3 wallets, ensuring a smooth and efficient blockchain interaction within their games. This unity SDK acts as the interface to access AstroCafe.Solana.Unity-Core. [AstroCafe.Solana.Unity-Core](https://github.com/Astro-Cafe-GameFi/AstroCafe.Solana.Unity-Core).
 
 ## 📌 Dependencies
 
